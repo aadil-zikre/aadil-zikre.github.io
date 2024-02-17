@@ -1,30 +1,87 @@
 # careers section data
 # if you don't have language feature(language.yml is empty), ignore "i18n" items
 - name:
-    detail: Company A
+    detail: Syracuse University
     i18n: company_a
   desc:
-    detail: I worked at Company A ...
+    detail: I worked on several projects
     i18n: company_a_desc
   date:
-    detail: Apr. 2016
+    detail: May. 2023
     i18n: company_a_date
   job:
-    detail: CTO
+    detail: Graduate Research Assistant
     i18n: company_a_job
   icon: fa-plus-square
   present: true
 
 - name:
-    detail: Company B
+    detail: Pegasus Knowledge Solutions Inc
     i18n: company_b
   desc:
-    detail: I worked at Company B ...
+    detail: Worked as an intern
     i18n: company_b_desc
   date:
-    detail: Jun. 2015
+    detail: Jun. 2023
     i18n: company_b_date
   job:
-    detail: Full Stack Developer
+    detail: Data Science Intern
+    i18n: company_b_job
+  icon: fa-plus-square
+
+- name:
+    detail: Syracuse University
+    i18n: company_b
+  desc:
+    detail: I worked as a Teaching Assistant
+    i18n: company_b_desc
+  date:
+    detail: Jan. 2023
+    i18n: company_b_date
+  job:
+    detail: Graduate Teaching Assistant
+    i18n: company_b_job
+  icon: fa-plus-square
+
+- name:
+    detail: Syracuse University
+    i18n: company_b
+  desc:
+    detail: Started Pursuing Masters in Applied Data Science
+    i18n: company_b_desc
+  date:
+    detail: August. 2022
+    i18n: company_b_date
+  job:
+    detail: 
+    i18n: company_b_job
+  icon: fa-plus-square
+  present: true
+
+- name:
+    detail: Rebel Foods Pvt Ltd
+    i18n: company_b
+  desc:
+    detail: Worked on several projects
+    i18n: company_b_desc
+  date:
+    detail: June. 2021
+    i18n: company_b_date
+  job:
+    detail: Data Scientist
+    i18n: company_b_job
+  icon: fa-plus-square
+
+- name:
+    detail: Rebel Foods Pvt Ltd
+    i18n: company_b
+  desc:
+    detail: Worked on several projects
+    i18n: company_b_desc
+  date:
+    detail: Feb. 2020
+    i18n: company_b_date
+  job:
+    detail: Data Analyst
     i18n: company_b_job
   icon: fa-plus-square
