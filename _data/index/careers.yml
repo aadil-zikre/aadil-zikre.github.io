@@ -7,7 +7,7 @@
     detail: I worked on several projects
     i18n: company_a_desc
   date:
-    detail: May. 2023
+    detail: May 2023 - Present
     i18n: company_a_date
   job:
     detail: Graduate Research Assistant
@@ -22,7 +22,7 @@
     detail: Worked as an intern
     i18n: company_b_desc
   date:
-    detail: Jun. 2023
+    detail: June 2023 - August 2023
     i18n: company_b_date
   job:
     detail: Data Science Intern
@@ -36,7 +36,7 @@
     detail: I worked as a Teaching Assistant
     i18n: company_b_desc
   date:
-    detail: Jan. 2023
+    detail: January 2023 - May 2023
     i18n: company_b_date
   job:
     detail: Graduate Teaching Assistant
@@ -50,7 +50,7 @@
     detail: Started Pursuing Masters in Applied Data Science
     i18n: company_b_desc
   date:
-    detail: August. 2022
+    detail: August 2022 - Present (May 2024)
     i18n: company_b_date
   job:
     detail: 
@@ -65,7 +65,7 @@
     detail: Worked on several projects
     i18n: company_b_desc
   date:
-    detail: June. 2021
+    detail: June 2021 - July 2022
     i18n: company_b_date
   job:
     detail: Data Scientist
@@ -79,7 +79,7 @@
     detail: Worked on several projects
     i18n: company_b_desc
   date:
-    detail: Feb. 2020
+    detail: February 2020 - June 2021
     i18n: company_b_date
   job:
     detail: Data Analyst
