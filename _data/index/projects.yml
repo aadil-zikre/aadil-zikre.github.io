@@ -45,8 +45,7 @@
 
 - name: Contradictory My Dear Watson (Kaggle)
   i18n: cpython
-  gh_user: aadil-zikre
-  repo: contradictory-my-dear-watson
+  url: https://github.com/aadil-zikre/contradictory-my-dear-watson
   img: /static/assets/img/landing/python.png
   desc: NLU Project to determine contraction, entailment or neutrality between pairs of sentences
 
