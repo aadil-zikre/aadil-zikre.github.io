@@ -1,22 +1,63 @@
 # projects section data
 # If you don't have language feature(language.yml is empty), ignore "i18n" items
 # Suggest projects' img be located at '/static/assets/img/landing', and edit following img items.
-- name: Jalpc
+- name: Sentiment Analysis
   i18n: jalpc
-  gh_user: jarrekk
-  repo: Jalpc
-  img: /static/assets/img/landing/jekyll.png
-  desc: This project is my project. I use Javascript to get repo's information all my repos have only one request.
-
-- name: Python
-  i18n: cpython
-  gh_user: python
-  repo: cpython
+  gh_user: aadil-zikre
+  repo: amazon-reviews-sentiment-analysis
   img: /static/assets/img/landing/python.png
-  desc: This project is other's project. I use another request to get repo's information.
+  desc: Detailed Analysis with Predictive Models for Sentiments applied to Amazon Reviews (NLP)
 
-- name: Google
-  i18n: google
-  url: https://google.com
-  img: /static/assets/img/landing/google.png
-  desc: This is another project.
+- name: Digit Recognizer
+  i18n: cpython
+  gh_user: aadil-zikre
+  repo: kaggle-digit-recognizer
+  img: /static/assets/img/landing/python.png
+  desc: Three Different Ways to Recognise Digits (ML, Computer Vision, Deep Learning)
+
+- name: Biryani Place DB Design
+  i18n: cpython
+  gh_user: aadil-zikre
+  repo: database-design-the-biryani-place
+  img: /static/assets/img/landing/python.png
+  desc: Designing a database for a fictional Restaurant Chain, The Biryani Place, from Scratch.
+
+- name: HMO Cost Analysis
+  i18n: cpython
+  gh_user: aadil-zikre
+  repo: hmo-cost-analysis
+  img: /static/assets/img/landing/python.png
+  desc: A comprehensive approach to predicting whether a customer is going to spend a significant amount on healthcare in the following year.
+
+- name: Handy Python Utilities
+  i18n: cpython
+  gh_user: aadil-zikre
+  repo: handy-python-utilities
+  img: /static/assets/img/landing/python.png
+  desc: Python Utilities
+
+- name: Web Scraper
+  i18n: cpython
+  gh_user: aadil-zikre
+  repo: web-scrapers
+  img: /static/assets/img/landing/python.png
+  desc: Script to scrape data from websites when we have a list of urls
+
+- name: Contradictory My Dear Watson (Kaggle)
+  i18n: cpython
+  gh_user: aadil-zikre
+  repo: contradictory-my-dear-watson
+  img: /static/assets/img/landing/python.png
+  desc: NLU Project to determine contraction, entailment or neutrality between pairs of sentences
+
+- name: Titanic (Kaggle)
+  i18n: cpython
+  url: https://www.kaggle.com/code/aadilzikre/titanic-survival-prediction-with-xgboost
+  img: /static/assets/img/landing/python.png
+  desc: Beginner Kaggle Project to determine if a passenger survives on Titanic
+
+# - name: Google
+#   i18n: google
+#   url: https://google.com
+#   img: /static/assets/img/landing/google.png
+#   desc: This is another project.
