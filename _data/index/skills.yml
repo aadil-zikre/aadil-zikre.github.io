@@ -2,5 +2,5 @@
 
 label: Ability
 id : cs
-aspects: Python, SQL, Machine Learing, Deep Learning, Natural Language Processing, Tableau, AWS, Azure
-percentage: 90, 90, 85, 80, 95, 80, 90, 60
+aspects: Python, SQL, Machine Learing, Deep Learning, Natural Language Processing, Tableau, AWS, Azure, A/B Testing
+percentage: 90, 90, 85, 80, 95, 80, 90, 60, 75
