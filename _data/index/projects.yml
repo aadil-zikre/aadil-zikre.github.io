@@ -43,13 +43,6 @@
   img: /static/assets/img/landing/python_package.png
   desc: Python Utilities
 
-- name: Web Scraper
-  i18n: cpython
-  gh_user: aadil-zikre
-  repo: web-scrapers
-  img: /static/assets/img/landing/python.png
-  desc: Script to scrape data from websites when we have a list of urls
-
 - name: Contradictory My Dear Watson (Kaggle) (ML)
   i18n: cpython
   url: https://github.com/aadil-zikre/contradictory-my-dear-watson
@@ -76,7 +69,8 @@
 
 - name: Data Warehouse Design (Data Modeling)
   i18n: cpython
-  url: https://lookerstudio.google.com/u/0/reporting/37c2ec1c-0f84-47d5-bd9d-06fe5abd1f63/page/JegtD
+  gh_user: aadil-zikre
+  repo: dimensional-data-modelling
   img: /static/assets/img/landing/data_warehouse.png
   desc: Implementing Kimbal Data Model on Various Use Cases for a fictitious Organization
 # - name: Google
