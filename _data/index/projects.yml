@@ -34,7 +34,7 @@
   gh_user: aadil-zikre
   repo: hmo-cost-analysis
   img: /static/assets/img/landing/r_project.png
-  desc: A comprehensive approach to predicting whether a customer is going to spend a significant amount on healthcare in the following year.
+  desc: Predicting Healthcare Spend of a consumer
 
 - name: My Python Library
   i18n: cpython
