@@ -20,7 +20,7 @@
   gh_user: aadil-zikre
   repo: Political-Idealogies-Prediction-in-News-Articles
   img: /static/assets/img/landing/spark_hadoop.png
-  desc: Categorize News Articles into Left Right or Center for greater transparency for news consumers
+  desc: Predicting Political Ideologies in News Articles
 
 - name: Biryani Place DB Design
   i18n: cpython
