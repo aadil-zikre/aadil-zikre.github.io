@@ -4,13 +4,13 @@
     detail: Syracuse University
     i18n: company_a
   desc:
-    detail: As a RA, I have been working with Prof. Lu Xiao on several research projects in the area of Computational NLP. We have also submitted 2 research papers which are under review. 
+    detail: As a RA, I have been working with Prof. Lu Xiao on several research projects in the area of Computational NLP. We have also submitted 2 research papers which are under review.
     i18n: company_a_desc
   date:
     detail: May 2023 - Present
     i18n: company_a_date
   job:
-    detail: Graduate Research Assistant
+    detail: NLP Researcher
     i18n: company_a_job
   icon: fa-plus-square
   present: true
@@ -19,13 +19,13 @@
     detail: Pegasus Knowledge Solutions Inc
     i18n: company_b
   desc:
-    detail: I worked on three projects spanning the Financial and HR Domain. Highlight was an LLM enabled ChatApp. 
+    detail: I worked on three projects spanning the Financial and HR Domain. Highlight was an LLM enabled ChatApp.
     i18n: company_b_desc
   date:
     detail: June 2023 - August 2023
     i18n: company_b_date
   job:
-    detail: Data Science Intern
+    detail: Data Scientist
     i18n: company_b_job
   icon: fa-plus-square
 
@@ -69,19 +69,5 @@
     i18n: company_b_date
   job:
     detail: Data Scientist
-    i18n: company_b_job
-  icon: fa-plus-square
-
-- name:
-    detail: Rebel Foods Pvt Ltd
-    i18n: company_b
-  desc:
-    detail: Worked on several projects related to Supply Optimization, SKU Variance Management and Dashboarding.
-    i18n: company_b_desc
-  date:
-    detail: February 2020 - June 2021
-    i18n: company_b_date
-  job:
-    detail: Data Analyst
     i18n: company_b_job
   icon: fa-plus-square
