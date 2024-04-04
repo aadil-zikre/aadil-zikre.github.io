@@ -7,6 +7,72 @@
   repo: amazon-reviews-sentiment-analysis
   img: /static/assets/img/landing/nlp_huggingface.png
   desc: Detailed Analysis with Predictive Models for Sentiments applied to Amazon Reviews (NLP)
+
+- name: Digit Recognizer (CV)
+  i18n: cpython
+  gh_user: aadil-zikre
+  repo: kaggle-digit-recognizer
+  img: /static/assets/img/landing/computer_vision.png
+  desc: Three Different Ways to Recognise Digits (ML, Computer Vision, Deep Learning)
+
+- name: Political Ideologies Prediction in News
+  i18n: cpython
+  gh_user: aadil-zikre
+  repo: Political-Idealogies-Prediction-in-News-Articles
+  img: /static/assets/img/landing/spark_hadoop.png
+  desc: Categorize News Articles into Left Right or Center for greater transparency for news consumers
+
+- name: Biryani Place DB Design
+  i18n: cpython
+  gh_user: aadil-zikre
+  repo: database-design-the-biryani-place
+  img: /static/assets/img/landing/database.png
+  desc: Designing a database for a fictional Restaurant Chain, The Biryani Place, from Scratch.
+
+- name: HMO Cost Analysis
+  i18n: cpython
+  gh_user: aadil-zikre
+  repo: hmo-cost-analysis
+  img: /static/assets/img/landing/r_project.png
+  desc: A comprehensive approach to predicting whether a customer is going to spend a significant amount on healthcare in the following year.
+
+- name: My Python Library
+  i18n: cpython
+  gh_user: aadil-zikre
+  repo: krezi
+  img: /static/assets/img/landing/python_package.png
+  desc: Python Utilities
+
+- name: Contradictory My Dear Watson (Kaggle) (ML)
+  i18n: cpython
+  url: https://github.com/aadil-zikre/contradictory-my-dear-watson
+  img: /static/assets/img/landing/machine_learning.png
+  desc: NLU Project to determine contraction, entailment or neutrality between pairs of sentences
+
+- name: Titanic (Kaggle) (ML)
+  i18n: cpython
+  url: https://www.kaggle.com/code/aadilzikre/titanic-survival-prediction-with-xgboost
+  img: /static/assets/img/landing/machine_learning.png
+  desc: Beginner Kaggle Project to determine if a passenger survives on Titanic
+
+- name: Sales Dashboard (Tableau)
+  i18n: cpython
+  url: https://public.tableau.com/app/profile/aadil.zikre/viz/BritishAirwaysRatingsDashboard_17110514319310/Dashboard1
+  img: /static/assets/img/landing/tableau.png
+  desc: Data Visualization Project
+
+- name: British Airways Ratings Dashboard (Google Looker)
+  i18n: cpython
+  url: https://lookerstudio.google.com/u/0/reporting/37c2ec1c-0f84-47d5-bd9d-06fe5abd1f63/page/JegtD
+  img: /static/assets/img/landing/looker_studio.png
+  desc: Data Visualization Project
+
+- name: Data Warehouse Design (Data Modeling)
+  i18n: cpython
+  gh_user: aadil-zikre
+  repo: dimensional-data-modelling
+  img: /static/assets/img/landing/data_warehouse.png
+  desc: Implementing Kimbal Data Model on Various Use Cases for a fictitious Organization
 # - name: Google
 #   i18n: google
 #   url: https://google.com
