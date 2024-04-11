@@ -9,6 +9,20 @@
   img: /static/assets/img/landing/nlp_huggingface.png
   desc: Detailed Analysis with Predictive Models for Sentiments applied to Amazon Reviews (NLP)
 
+- name: Image Super Resolution (CV)
+  i18n: jalpc
+  gh_user: aadil-zikre
+  repo: srgan
+  img: /static/assets/img/landing/srgan.png
+  desc: Using Generative Adversarial Network (GAN) to ehance resolution by 4x (CV)
+
+- name: Measuring Storytelling Prowess (NLP)
+  i18n: jalpc
+  gh_user: aadil-zikre
+  repo: narrativity-fw2
+  img: /static/assets/img/landing/nlp_s4.png
+  desc: What do you think makes a review stand out? (NLP)
+
 - name: Digit Recognizer (CV)
   i18n: cpython
   gh_user: aadil-zikre
