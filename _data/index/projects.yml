@@ -51,12 +51,12 @@
   img: /static/assets/img/landing/r_project.png
   desc: Predicting Healthcare Spend of a consumer
 
-- name: My Python Library
+- name: Krezi - Open Source Python Package
   i18n: cpython
   gh_user: aadil-zikre
   repo: krezi
   img: /static/assets/img/landing/python_package.png
-  desc: Python Utilities
+  desc: Utilities for Lazy yet Efficient Developers
 
 - name: Contradictory My Dear Watson (Kaggle) (ML)
   i18n: cpython

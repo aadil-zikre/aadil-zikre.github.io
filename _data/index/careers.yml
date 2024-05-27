@@ -4,28 +4,28 @@
     detail: Syracuse University
     i18n: company_a
   desc:
-    detail: As a RA, I have been working with Prof. Lu Xiao on several research projects in the area of Computational NLP. We have also submitted 2 research papers which are under review.
+    detail: As an RA, I have worked with Prof. Dr. Lu Xiao on multiple research projects in the area of Computational NLP. We have also submitted 2 research papers which are currently under review.
     i18n: company_a_desc
   date:
-    detail: May 2023 - Present
+    detail: May 2023 - April 2024
     i18n: company_a_date
   job:
-    detail: NLP Researcher
+    detail: Data Science Researcher
     i18n: company_a_job
   icon: fa-plus-square
-  present: true
+  present: False
 
 - name:
     detail: Pegasus Knowledge Solutions Inc
     i18n: company_b
   desc:
-    detail: I worked on three projects spanning the Financial and HR Domain. Highlight was an LLM enabled ChatApp.
+    detail: I worked on three projects spanning the Financial and HR Domain. Highlight was an OpenAI GPT3.5 LLM enabled Chat WebApp on Azure.
     i18n: company_b_desc
   date:
     detail: June 2023 - August 2023
     i18n: company_b_date
   job:
-    detail: Data Scientist
+    detail: Data Scientist, Intern
     i18n: company_b_job
   icon: fa-plus-square
 
@@ -47,22 +47,22 @@
     detail: Syracuse University
     i18n: company_b
   desc:
-    detail: Started Pursuing Masters in Applied Data Science.
+    detail: Finished Masters in Applied Data Science with a Specialization in Natural Language Processing.
     i18n: company_b_desc
   date:
-    detail: August 2022 - Present (May 2024)
+    detail: August 2022 - May 2024
     i18n: company_b_date
   job:
     detail: Student
     i18n: company_b_job
   icon: fa-plus-square
-  present: true
+  present: False
 
 - name:
     detail: Rebel Foods Pvt Ltd
     i18n: company_b
   desc:
-    detail: Worked on several projects related to Last Mile Delivery Prediction, Inventory Forecasting and Address Correction.
+    detail: Worked on multiple machine learning projects related to Last Mile Delivery Prediction, Inventory Forecasting and Address Correction. Developed and Deployed multiple models on AWS.
     i18n: company_b_desc
   date:
     detail: June 2021 - July 2022
