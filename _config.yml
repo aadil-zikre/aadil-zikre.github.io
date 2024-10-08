@@ -28,7 +28,7 @@ author:  # change following line to your infomation.
   skill_icon2:
     - name: fa-linux
     - name: icon-apache
-  desc: Greetings! I'm Aadil Zikre, a data scientist who wrangles numbers by day and wrestles with Dostoevsky's existential dilemmas by night. With a Master's in Applied Data Science from Syracuse University and a knack for turning raw data into actionable insights, I am the algorithmic alchemist you never knew you needed. My career has taken me from forecasting SKUs for e-commerce giants to predicting employee attrition and saving millions in the process. When I'm not crafting machine learning models or optimizing AWS pipelines, you'll find me on the football field, where I apply my predictive skills to anticipate the perfect moment for a goal. If you're looking for someone who can tackle complex datasets with the hidden depth of a Dostoevsky novel and score insights as swiftly as a striker on the field, let's chat. In the world of data science, I'm the Toni Kroos of analytics – delivering insights with the precision and vision of a perfect through ball.  # Describe yourself.
+  desc: Hello! I'm Aadil Zikre, a phenomenal data scientist!   # Describe yourself.
 
 # comment
 # disqus:  # if you wanna comment feature, go to https://disqus.com/ to get your configuration; if not, comment following two lines.
